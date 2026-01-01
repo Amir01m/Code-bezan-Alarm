@@ -3,10 +3,15 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
 [![Python](https://img.shields.io/badge/python-3.x-brightgreen.svg)](https://www.python.org/)
+<div dir="rtl" align="right">
 
+[![Download CodeBezan](https://img.shields.io/badge/Download-CodeBezan_v1.0.0-blue?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Amir01m/Code-bezan-Alarm/releases/download/v1.0.0/CodeBezan.exe)
+
+</div>
 «کدبزن» یک ابزار سبک و کاربردی است که با هدف جلوگیری از خستگی مفرط و حفظ تمرکز توسعه‌دهندگان طراحی شده است. این برنامه هر 35 دقیقه یک‌بار ظاهر شده و با یک پیام و صدای اختصاصی، به شما یادآوری می‌کند که به اهداف کدزنی خود پایبند بمانید.
 
 ---
+
 
 ## ✨ ویژگی‌های کلیدی
 - **رابط کاربری مدرن:** طراحی شده با `CustomTkinter` برای هماهنگی با محیط‌های کدنویسی.
