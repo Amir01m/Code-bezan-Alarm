@@ -1,0 +1,10 @@
+/.venv
+/__pycache__
+/build/
+/dist/
+CodeBezan.spec
+icon.ico
+main.spec
+main.py
+test.py
+voice.wav
